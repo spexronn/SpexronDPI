@@ -1,0 +1,32 @@
+# CMake / Build
+build/
+out/
+.vs/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Visual Studio
+*.sln
+*.suo
+*.user
+*.userosscache
+*.slnx.sqlite
+*.ntvs*
+*.njsproj
+*.slxc
+*.vcxproj.user
+*.vcxproj.filters
+
+# Executables & Logs
+*.exe
+*.dll
+*.log
+
+# Inno Setup output
+installer/Output/
