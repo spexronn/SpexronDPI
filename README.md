@@ -39,7 +39,3 @@ If you want to poke around the code or compile it yourself, you'll need:
 3. The compiled executable will be waiting for you in `build/bin/Release/`. 
 
 *Make sure to copy the WinDivert driver files (`WinDivert.dll` and `WinDivert64.sys`) into the same directory as the executable before running it, or it will crash.*
-
-## Disclaimer
-
-This project is built for educational purposes and network research. I take no responsibility for how you use it or if you break your own internet connection. Play nice.
